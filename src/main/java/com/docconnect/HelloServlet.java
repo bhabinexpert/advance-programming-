@@ -1,4 +1,4 @@
-package com.javacoursework;
+package com.docconnect;
 
 import java.io.*;
 
